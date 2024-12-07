@@ -7,7 +7,7 @@ let categoryMovies = {
             year: 20023, 
             director: 'Josh Greenbaum',
             duration: 93,
-            cover: 'https://www.covercaratulas.com/ode/mini/carteles-49881.jpg'
+            cover: 'https://www.covercaratulas.com/ode/mini/carteles-54543.jpg'
         }
     ]
 }
